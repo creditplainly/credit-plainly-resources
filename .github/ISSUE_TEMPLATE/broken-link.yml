@@ -1,0 +1,47 @@
+name: Broken link report
+description: Report a broken or outdated link in this repository
+title: "Broken link: "
+labels:
+  - bug
+body:
+  - type: input
+    id: broken_url
+    attributes:
+      label: Broken link URL
+      description: Paste the full URL that fails or redirects incorrectly
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Page or file where you found it
+      description: Example file path or README section name
+      placeholder: README.md Official Consumer Resources
+    validations:
+      required: true
+  - type: input
+    id: replacement
+    attributes:
+      label: Suggested replacement (optional)
+      description: If you know a better URL, paste it here
+      placeholder: https://
+    validations:
+      required: false
+  - type: dropdown
+    id: official
+    attributes:
+      label: Is the replacement an official government, regulator, or primary source page?
+      options:
+        - "Yes"
+        - "No"
+        - "Not sure"
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: What you observed (404, wrong page, etc.)
+    validations:
+      required: false
