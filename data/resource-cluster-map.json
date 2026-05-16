@@ -46,6 +46,36 @@
       "name": "credit-monitoring-basics-guide",
       "url": "https://github.com/creditplainly/credit-monitoring-basics-guide",
       "role": "Monitoring vs reports vs scores"
+    },
+    {
+      "name": "credit-report-error-checklist-kit",
+      "url": "https://github.com/creditplainly/credit-report-error-checklist-kit",
+      "role": "Report error review before disputing"
+    },
+    {
+      "name": "credit-bureau-dispute-resource-map",
+      "url": "https://github.com/creditplainly/credit-bureau-dispute-resource-map",
+      "role": "Bureau dispute starting points"
+    },
+    {
+      "name": "free-credit-report-resource-map",
+      "url": "https://github.com/creditplainly/free-credit-report-resource-map",
+      "role": "Official free report access map"
+    },
+    {
+      "name": "credit-utilization-learning-kit",
+      "url": "https://github.com/creditplainly/credit-utilization-learning-kit",
+      "role": "Utilization concepts and examples"
+    },
+    {
+      "name": "secured-credit-card-education-map",
+      "url": "https://github.com/creditplainly/secured-credit-card-education-map",
+      "role": "Secured card education without product picks"
+    },
+    {
+      "name": "identity-theft-credit-report-starter-kit",
+      "url": "https://github.com/creditplainly/identity-theft-credit-report-starter-kit",
+      "role": "Identity theft warning signs on reports"
     }
   ],
   "notAllowed": [

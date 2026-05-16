@@ -119,6 +119,17 @@ Expanded directory with “when to use” notes: [`docs/official-consumer-credit
 | [credit-report-glossary-map](https://github.com/creditplainly/credit-report-glossary-map) | Term tables with guide links |
 | [credit-monitoring-basics-guide](https://github.com/creditplainly/credit-monitoring-basics-guide) | Monitoring vs reports vs scores |
 
+### Specialized kits
+
+| Repository | Role |
+|------------|------|
+| [credit-report-error-checklist-kit](https://github.com/creditplainly/credit-report-error-checklist-kit) | Error review checklists before disputing |
+| [credit-bureau-dispute-resource-map](https://github.com/creditplainly/credit-bureau-dispute-resource-map) | Bureau dispute portals and prep |
+| [free-credit-report-resource-map](https://github.com/creditplainly/free-credit-report-resource-map) | Official free report sources |
+| [credit-utilization-learning-kit](https://github.com/creditplainly/credit-utilization-learning-kit) | Utilization concepts and examples |
+| [secured-credit-card-education-map](https://github.com/creditplainly/secured-credit-card-education-map) | Secured card mechanics (no product list) |
+| [identity-theft-credit-report-starter-kit](https://github.com/creditplainly/identity-theft-credit-report-starter-kit) | Fraud warning signs and recovery steps |
+
 Organization profile: [github.com/creditplainly](https://github.com/creditplainly).
 
 ---
