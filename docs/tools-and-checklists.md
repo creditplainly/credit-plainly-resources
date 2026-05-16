@@ -12,6 +12,6 @@ These are public Credit Plainly tools intended for education and organization. T
 
 - Collection dispute checklist: https://www.creditplainly.com/tools/collection-dispute-checklist
 
-## Note on drafts and indexing
+## Maintainer note
 
-This repository only lists tools that are intended to be public. If a page is marked noindex or is not shipped yet, it should not be linked here.
+This list includes only tools that are published on [creditplainly.com](https://www.creditplainly.com). When adding tools, confirm the page is live before linking. See [maintenance-checklist.md](maintenance-checklist.md).

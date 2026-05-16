@@ -1,5 +1,7 @@
 # Credit report starting points
 
+For a wider question → guide map, see [topic-matrix.md](topic-matrix.md).
+
 This page collects a small set of Credit Plainly guides plus a few official references. It is not a full course and does not replace reading your own reports and notices.
 
 ## Credit Plainly guides

@@ -1,5 +1,7 @@
 # Credit dispute starting points
 
+For a wider question → guide map, see [topic-matrix.md](topic-matrix.md).
+
 Disputes are for incomplete or inaccurate information. Outcomes depend on investigation results and applicable law. Removing accurate negative information is not a realistic expectation.
 
 ## Credit Plainly guides and tools

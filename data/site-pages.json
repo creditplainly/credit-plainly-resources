@@ -1,0 +1,886 @@
+[
+  {
+    "path": "/",
+    "title": "Credit Plainly - Credit Reports, Scores, and Disputes in Plain English",
+    "cluster": "home",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "avoid",
+    "safeAnchorExamples": [
+      "Credit Plainly - Credit Reports, Scores, and Disputes in Plain English (Credit Plainly guide)",
+      "Plain-English guide: Credit Plainly - Credit Reports, Scores, and Disputes in Plain English"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/about",
+    "title": "About Credit Plainly",
+    "cluster": "trust",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "avoid",
+    "safeAnchorExamples": [
+      "About Credit Plainly (Credit Plainly guide)",
+      "Plain-English guide: About Credit Plainly"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/contact",
+    "title": "Contact Credit Plainly",
+    "cluster": "trust",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "avoid",
+    "safeAnchorExamples": [
+      "Contact Credit Plainly (Credit Plainly guide)",
+      "Plain-English guide: Contact Credit Plainly"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/editorial-policy",
+    "title": "Editorial Policy",
+    "cluster": "trust",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Editorial Policy (Credit Plainly guide)",
+      "Plain-English guide: Editorial Policy"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/review-methodology",
+    "title": "Review Methodology",
+    "cluster": "trust",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Review Methodology (Credit Plainly guide)",
+      "Plain-English guide: Review Methodology"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/advertising-disclosure",
+    "title": "Advertising Disclosure",
+    "cluster": "trust",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Advertising Disclosure (Credit Plainly guide)",
+      "Plain-English guide: Advertising Disclosure"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/corrections-policy",
+    "title": "Corrections Policy",
+    "cluster": "trust",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Corrections Policy (Credit Plainly guide)",
+      "Plain-English guide: Corrections Policy"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/privacy",
+    "title": "Privacy Policy",
+    "cluster": "trust",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Privacy Policy (Credit Plainly guide)",
+      "Plain-English guide: Privacy Policy"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/terms",
+    "title": "Terms of Use",
+    "cluster": "trust",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Terms of Use (Credit Plainly guide)",
+      "Plain-English guide: Terms of Use"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-repair",
+    "title": "Credit Repair Basics (U.S.)",
+    "cluster": "credit repair",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Credit Repair Basics (Credit Plainly guide)",
+      "Plain-English guide: Credit Repair Basics"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-repair/credit-repair-scams",
+    "title": "Credit Repair Scams: Red Flags, Warning Signs, and What to Do Instead",
+    "cluster": "credit repair",
+    "riskLevel": "medium",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Credit Repair Scams: Red Flags, Warning Signs, and What to Do Instead (Credit Plainly guide)",
+      "Plain-English guide: Credit Repair Scams: Red Flags, Warning Signs, and What to Do Instead"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-repair/diy-credit-repair",
+    "title": "DIY Credit Repair: A Step-by-Step Guide to Fixing Your Credit Yourself",
+    "cluster": "credit repair",
+    "riskLevel": "medium",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "DIY Credit Repair: A Step-by-Step Guide to Fixing Your Credit Yourself (Credit Plainly guide)",
+      "Plain-English guide: DIY Credit Repair: A Step-by-Step Guide to Fixing Your Credit Yourself"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-repair/how-credit-repair-works",
+    "title": "How Credit Repair Works",
+    "cluster": "credit repair",
+    "riskLevel": "medium",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "How Credit Repair Works (Credit Plainly guide)",
+      "Plain-English guide: How Credit Repair Works"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-repair/what-credit-repair-cannot-do",
+    "title": "What Credit Repair Cannot Do",
+    "cluster": "credit repair",
+    "riskLevel": "medium",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "What Credit Repair Cannot Do (Credit Plainly guide)",
+      "Plain-English guide: What Credit Repair Cannot Do"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-report-disputes",
+    "title": "Credit Report Disputes",
+    "cluster": "credit report disputes",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Credit Report Disputes (Credit Plainly guide)",
+      "Plain-English guide: Credit Report Disputes"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-report-disputes/609-dispute-letter",
+    "title": "What Is a 609 Dispute Letter? What It Does (and What It Doesn't)",
+    "cluster": "credit report disputes",
+    "riskLevel": "medium",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "What Is a 609 Dispute Letter? What It Does (Credit Plainly guide)",
+      "Plain-English guide: What Is a 609 Dispute Letter? What It Does"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-report-disputes/how-to-dispute-credit-report-errors",
+    "title": "How to Dispute Credit Report Errors",
+    "cluster": "credit report disputes",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "primary",
+    "safeAnchorExamples": [
+      "How to Dispute Credit Report Errors (Credit Plainly guide)",
+      "Plain-English guide: How to Dispute Credit Report Errors"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-report-disputes/dispute-letter-template",
+    "title": "Credit Dispute Letter Template",
+    "cluster": "credit report disputes",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Credit Dispute Letter Template (Credit Plainly guide)",
+      "Plain-English guide: Credit Dispute Letter Template"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-report-disputes/dispute-collections",
+    "title": "How to Dispute a Collection on Your Credit Report",
+    "cluster": "credit report disputes",
+    "riskLevel": "medium",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "How to Dispute a Collection on Your Credit Report (Credit Plainly guide)",
+      "Plain-English guide: How to Dispute a Collection on Your Credit Report"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-report-disputes/dispute-late-payments",
+    "title": "How to Dispute a Late Payment on Your Credit Report",
+    "cluster": "credit report disputes",
+    "riskLevel": "medium",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "How to Dispute a Late Payment on Your Credit Report (Credit Plainly guide)",
+      "Plain-English guide: How to Dispute a Late Payment on Your Credit Report"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-report-disputes/transunion-dispute",
+    "title": "How to dispute with TransUnion",
+    "cluster": "credit report disputes",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "How to dispute with TransUnion (Credit Plainly guide)",
+      "Plain-English guide: How to dispute with TransUnion"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-report-disputes/experian-dispute",
+    "title": "How to dispute with Experian",
+    "cluster": "credit report disputes",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "How to dispute with Experian (Credit Plainly guide)",
+      "Plain-English guide: How to dispute with Experian"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-report-disputes/equifax-dispute",
+    "title": "How to dispute with Equifax",
+    "cluster": "credit report disputes",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "How to dispute with Equifax (Credit Plainly guide)",
+      "Plain-English guide: How to dispute with Equifax"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-reports",
+    "title": "Credit Reports",
+    "cluster": "credit reports",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Credit Reports (Credit Plainly guide)",
+      "Plain-English guide: Credit Reports"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-reports/credit-report-vs-credit-score",
+    "title": "Credit Report vs. Credit Score: What's the Difference?",
+    "cluster": "credit reports",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Credit Report vs. Credit Score: What's the Difference? (Credit Plainly guide)",
+      "Plain-English guide: Credit Report vs. Credit Score: What's the Difference?"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-reports/how-to-read-credit-report",
+    "title": "How to Read a Credit Report",
+    "cluster": "credit reports",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "primary",
+    "safeAnchorExamples": [
+      "How to Read a Credit Report (Credit Plainly guide)",
+      "Plain-English guide: How to Read a Credit Report"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-reports/free-credit-report",
+    "title": "How to Get Your Free Credit Report",
+    "cluster": "credit reports",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "primary",
+    "safeAnchorExamples": [
+      "How to Get Your Free Credit Report (Credit Plainly guide)",
+      "Plain-English guide: How to Get Your Free Credit Report"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-reports/common-credit-report-errors",
+    "title": "Common Credit Report Errors",
+    "cluster": "credit reports",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "primary",
+    "safeAnchorExamples": [
+      "Common Credit Report Errors (Credit Plainly guide)",
+      "Plain-English guide: Common Credit Report Errors"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-reports/identity-theft-on-credit-report",
+    "title": "Identity Theft on Your Credit Report",
+    "cluster": "credit reports",
+    "riskLevel": "medium",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Identity Theft on Your Credit Report (Credit Plainly guide)",
+      "Plain-English guide: Identity Theft on Your Credit Report"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-reports/three-major-credit-bureaus",
+    "title": "The Three Major Credit Bureaus",
+    "cluster": "credit reports",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "The Three Major Credit Bureaus (Credit Plainly guide)",
+      "Plain-English guide: The Three Major Credit Bureaus"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-reports/wrong-address-on-credit-report",
+    "title": "Wrong Address on Your Credit Report",
+    "cluster": "credit reports",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Wrong Address on Your Credit Report (Credit Plainly guide)",
+      "Plain-English guide: Wrong Address on Your Credit Report"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-scores",
+    "title": "Credit Scores",
+    "cluster": "credit scores",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Credit Scores (Credit Plainly guide)",
+      "Plain-English guide: Credit Scores"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-scores/check-credit-score",
+    "title": "How to Check Your Credit Score",
+    "cluster": "credit scores",
+    "riskLevel": "medium",
+    "recommendedGitHubUse": "primary",
+    "safeAnchorExamples": [
+      "How to Check Your Credit Score (Credit Plainly guide)",
+      "Plain-English guide: How to Check Your Credit Score"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-scores/credit-score-ranges",
+    "title": "Credit Score Ranges Explained: What Each Band Means",
+    "cluster": "credit scores",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Credit Score Ranges Explained: What Each Band Means (Credit Plainly guide)",
+      "Plain-English guide: Credit Score Ranges Explained: What Each Band Means"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-scores/fico-vs-vantagescore",
+    "title": "FICO vs. VantageScore: Why Your Scores May Differ and What That Means",
+    "cluster": "credit scores",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "primary",
+    "safeAnchorExamples": [
+      "FICO vs. VantageScore: Why Your Scores May Differ and What That Means (Credit Plainly guide)",
+      "Plain-English guide: FICO vs. VantageScore: Why Your Scores May Differ and What That Means"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-scores/how-to-improve-your-credit-score",
+    "title": "How to Improve Your Credit Score",
+    "cluster": "credit scores",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "How to Improve Your Credit Score (Credit Plainly guide)",
+      "Plain-English guide: How to Improve Your Credit Score"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-scores/how-to-build-credit",
+    "title": "How to Build Credit",
+    "cluster": "credit scores",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "How to Build Credit (Credit Plainly guide)",
+      "Plain-English guide: How to Build Credit"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-scores/what-affects-credit-score",
+    "title": "What Affects Your Credit Score",
+    "cluster": "credit scores",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "What Affects Your Credit Score (Credit Plainly guide)",
+      "Plain-English guide: What Affects Your Credit Score"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-scores/what-is-a-good-credit-score",
+    "title": "What Is a Good Credit Score? Ranges, Context, and Next Steps",
+    "cluster": "credit scores",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "What Is a Good Credit Score? Ranges, Context, and Next Steps (Credit Plainly guide)",
+      "Plain-English guide: What Is a Good Credit Score? Ranges, Context, and Next Steps"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-monitoring",
+    "title": "Credit Monitoring: What It Does and What It Cannot Do",
+    "cluster": "credit monitoring",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Credit Monitoring: What It Does and What It Cannot Do (Credit Plainly guide)",
+      "Plain-English guide: Credit Monitoring: What It Does and What It Cannot Do"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-builder",
+    "title": "Credit Builder",
+    "cluster": "credit builder",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Credit Builder (Credit Plainly guide)",
+      "Plain-English guide: Credit Builder"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/credit-builder/how-secured-credit-cards-work",
+    "title": "How Secured Credit Cards Work",
+    "cluster": "credit builder",
+    "riskLevel": "medium",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "How Secured Credit Cards Work (Credit Plainly guide)",
+      "Plain-English guide: How Secured Credit Cards Work"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/tools",
+    "title": "Credit Tools and Checklists",
+    "cluster": "tools",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Credit Tools and Checklists (Credit Plainly guide)",
+      "Plain-English guide: Credit Tools and Checklists"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/tools/credit-utilization-calculator",
+    "title": "Credit utilization calculator",
+    "cluster": "tools",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Credit utilization calculator (Credit Plainly guide)",
+      "Plain-English guide: Credit utilization calculator"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/tools/credit-score-scenario-estimator",
+    "title": "Credit Score Scenario Estimator",
+    "cluster": "tools",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Credit Score Scenario Estimator (Credit Plainly guide)",
+      "Plain-English guide: Credit Score Scenario Estimator"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/tools/dispute-letter-generator",
+    "title": "Dispute letter generator (local, editable draft)",
+    "cluster": "tools",
+    "riskLevel": "medium",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Dispute letter generator (Credit Plainly guide)",
+      "Plain-English guide: Dispute letter generator"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/tools/collection-dispute-checklist",
+    "title": "Collection Dispute Checklist: What to Review Before You Dispute",
+    "cluster": "tools",
+    "riskLevel": "medium",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Collection Dispute Checklist: What to Review Before You Dispute (Credit Plainly guide)",
+      "Plain-English guide: Collection Dispute Checklist: What to Review Before You Dispute"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/resources",
+    "title": "Credit Resources",
+    "cluster": "resources",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "supporting",
+    "safeAnchorExamples": [
+      "Credit Resources (Credit Plainly guide)",
+      "Plain-English guide: Credit Resources"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/resources/credit-dispute-document-checklist",
+    "title": "Credit Dispute Document Checklist",
+    "cluster": "resources",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "primary",
+    "safeAnchorExamples": [
+      "Credit Dispute Document Checklist (Credit Plainly guide)",
+      "Plain-English guide: Credit Dispute Document Checklist"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/resources/credit-report-error-checklist",
+    "title": "Credit Report Error Checklist: What to Look For and What to Do Next",
+    "cluster": "resources",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "primary",
+    "safeAnchorExamples": [
+      "Credit Report Error Checklist: What to Look For and What to Do Next (Credit Plainly guide)",
+      "Plain-English guide: Credit Report Error Checklist: What to Look For and What to Do Next"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/resources/credit-report-terms-glossary",
+    "title": "Credit Report Terms Glossary",
+    "cluster": "resources",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "primary",
+    "safeAnchorExamples": [
+      "Credit Report Terms Glossary (Credit Plainly guide)",
+      "Plain-English guide: Credit Report Terms Glossary"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  },
+  {
+    "path": "/resources/credit-score-terms-glossary",
+    "title": "Credit Score Terms Glossary",
+    "cluster": "resources",
+    "riskLevel": "low",
+    "recommendedGitHubUse": "primary",
+    "safeAnchorExamples": [
+      "Credit Score Terms Glossary (Credit Plainly guide)",
+      "Plain-English guide: Credit Score Terms Glossary"
+    ],
+    "doNotUseAnchors": [
+      "best credit monitoring",
+      "remove collections from credit report",
+      "guaranteed dispute removal",
+      "boost credit score fast"
+    ]
+  }
+]

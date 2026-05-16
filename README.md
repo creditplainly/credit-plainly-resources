@@ -1,102 +1,139 @@
 # Credit Plainly Resources
 
-A public reference repository for consumers who want to understand credit reports, credit scores, and credit report disputes in plain English.
+Plain-English educational materials for U.S. consumers who want to understand **credit reports**, **credit scores**, and **credit report disputes** without hype or product pitches.
 
-Maintained by Credit Plainly: https://www.creditplainly.com  
-Contact: contact@creditplainly.com
+**Maintained by:** [Credit Plainly](https://www.creditplainly.com)  
+**Contact:** contact@creditplainly.com
 
-## What Is Credit Plainly?
+---
 
-Credit Plainly is a U.S. consumer credit education site. The goal is to explain how credit reports work, what goes into a credit score, and how the credit report dispute process works, without quick-fix promises, affiliate pressure, or product pitches.
+## What this repository is
 
-Credit Plainly does not recommend specific lenders, credit cards, credit repair companies, or paid financial products.
+- A **public reference hub** with curated links to official government and program pages.
+- **Navigation aids** (topic matrix, starting-point lists, glossary indexes) so you can find the right next read.
+- **Structured data** for maintainers ([`data/site-pages.json`](data/site-pages.json), [`data/resource-cluster-map.json`](data/resource-cluster-map.json)).
+- Pointers to **sibling GitHub repos** that go deeper on disputes, scores, glossaries, and monitoring.
 
-## Start Here
+You can use this repo without visiting Credit Plainly again, but when a long guide or checklist would help, we link to it directly.
 
-- Credit Reports: https://www.creditplainly.com/credit-reports
-- Credit Scores: https://www.creditplainly.com/credit-scores
-- Credit Report Disputes: https://www.creditplainly.com/credit-report-disputes
-- Resources: https://www.creditplainly.com/resources
+## What this repository is not
 
-## Selected Guides
+- Not legal advice, tax advice, or individualized financial advice.
+- Not a credit repair service and not a substitute for reading your own reports and notices.
+- Not a product directory: we do not rank lenders, cards, monitoring subscriptions, or repair companies.
+- Not a place for paid placements, partner links, or outcome guarantees.
 
-**Credit reports**
+---
 
-- How to read a credit report: https://www.creditplainly.com/credit-reports/how-to-read-credit-report
-- Free credit reports (basics): https://www.creditplainly.com/credit-reports/free-credit-report
-- Common credit report errors: https://www.creditplainly.com/credit-reports/common-credit-report-errors
+## Start here
 
-**Credit scores**
+| If you want to… | Start with |
+|-----------------|------------|
+| Pull and read your reports | [How to get your free credit report](https://www.creditplainly.com/credit-reports/free-credit-report) · [How to read a credit report](https://www.creditplainly.com/credit-reports/how-to-read-credit-report) |
+| Understand scores | [How to check your credit score](https://www.creditplainly.com/credit-scores/check-credit-score) · [FICO vs VantageScore](https://www.creditplainly.com/credit-scores/fico-vs-vantagescore) |
+| Fix possible report errors | [How to dispute credit report errors](https://www.creditplainly.com/credit-report-disputes/how-to-dispute-credit-report-errors) · [Credit report error checklist](https://www.creditplainly.com/resources/credit-report-error-checklist) |
+| Decode vocabulary | [Credit report terms glossary](https://www.creditplainly.com/resources/credit-report-terms-glossary) · [Credit score terms glossary](https://www.creditplainly.com/resources/credit-score-terms-glossary) |
 
-- What affects a credit score: https://www.creditplainly.com/credit-scores/what-affects-credit-score
-- FICO vs VantageScore: https://www.creditplainly.com/credit-scores/fico-vs-vantagescore
-- Credit score ranges: https://www.creditplainly.com/credit-scores/credit-score-ranges
+**Site section hubs** (overview pages): [Credit reports](https://www.creditplainly.com/credit-reports) · [Credit scores](https://www.creditplainly.com/credit-scores) · [Disputes](https://www.creditplainly.com/credit-report-disputes) · [Resources & tools](https://www.creditplainly.com/resources)
 
-**Credit report disputes**
+---
 
-- How to dispute credit report errors: https://www.creditplainly.com/credit-report-disputes/how-to-dispute-credit-report-errors
-- Dispute letter template: https://www.creditplainly.com/credit-report-disputes/dispute-letter-template
+## Resource map by problem
 
-## Plain-English Glossaries
+### Reports and bureaus
 
-- **Credit Report Terms Glossary** helps decode common words and labels you may see on a credit report: https://www.creditplainly.com/resources/credit-report-terms-glossary
-- **Credit Score Terms Glossary** explains scoring and model vocabulary in everyday language: https://www.creditplainly.com/resources/credit-score-terms-glossary
+- Unfamiliar with report layout → [How to read a credit report](https://www.creditplainly.com/credit-reports/how-to-read-credit-report)
+- Need lawful free access → [Free credit report basics](https://www.creditplainly.com/credit-reports/free-credit-report)
+- Report vs score confusion → [Credit report vs credit score](https://www.creditplainly.com/credit-reports/credit-report-vs-credit-score)
+- Equifax / Experian / TransUnion roles → [The three major credit bureaus](https://www.creditplainly.com/credit-reports/three-major-credit-bureaus)
+- Pattern matching for mistakes → [Common credit report errors](https://www.creditplainly.com/credit-reports/common-credit-report-errors)
+- Wrong or old address → [Wrong address on your credit report](https://www.creditplainly.com/credit-reports/wrong-address-on-credit-report)
+- Possible fraud lines → [Identity theft on your credit report](https://www.creditplainly.com/credit-reports/identity-theft-on-credit-report)
 
-## Credit Plainly Tools
+### Scores and habits
 
-- **Dispute Letter Generator** walks you through drafting a dispute letter you can edit before sending: https://www.creditplainly.com/tools/dispute-letter-generator
-- **Credit Utilization Calculator** estimates utilization from balances and limits for learning purposes: https://www.creditplainly.com/tools/credit-utilization-calculator
-- **Credit Score Scenario Estimator** is an educational what-if helper, not a bureau score: https://www.creditplainly.com/tools/credit-score-scenario-estimator
-- **Collection Dispute Checklist** supports organized review when a collection account appears on a report: https://www.creditplainly.com/tools/collection-dispute-checklist
+- Where scores come from → [How to check your credit score](https://www.creditplainly.com/credit-scores/check-credit-score)
+- Band labels (fair, good, etc.) → [Credit score ranges explained](https://www.creditplainly.com/credit-scores/credit-score-ranges)
+- Different numbers in different apps → [FICO vs VantageScore](https://www.creditplainly.com/credit-scores/fico-vs-vantagescore)
+- Factor categories → [What affects your credit score](https://www.creditplainly.com/credit-scores/what-affects-credit-score)
+- Utilization math (educational) → [Credit utilization calculator](https://www.creditplainly.com/tools/credit-utilization-calculator)
+- Building or improving over time → [How to build credit](https://www.creditplainly.com/credit-scores/how-to-build-credit) · [How to improve your credit score](https://www.creditplainly.com/credit-scores/how-to-improve-your-credit-score)
 
-## Official Consumer Resources
+### Disputes and collections
 
-Links below go to U.S. government and official program pages. Credit Plainly is independent and does not represent these organizations.
+- Full workflow → [How to dispute credit report errors](https://www.creditplainly.com/credit-report-disputes/how-to-dispute-credit-report-errors)
+- Letter starting point → [Credit dispute letter template](https://www.creditplainly.com/credit-report-disputes/dispute-letter-template)
+- Editable draft tool → [Dispute letter generator](https://www.creditplainly.com/tools/dispute-letter-generator)
+- Evidence prep → [Credit dispute document checklist](https://www.creditplainly.com/resources/credit-dispute-document-checklist)
+- Collection line review → [How to dispute a collection](https://www.creditplainly.com/credit-report-disputes/dispute-collections) · [Collection dispute checklist](https://www.creditplainly.com/tools/collection-dispute-checklist)
+- Late payment reporting dispute → [How to dispute a late payment](https://www.creditplainly.com/credit-report-disputes/dispute-late-payments)
+- Bureau-specific entry → [Equifax](https://www.creditplainly.com/credit-report-disputes/equifax-dispute) · [Experian](https://www.creditplainly.com/credit-report-disputes/experian-dispute) · [TransUnion](https://www.creditplainly.com/credit-report-disputes/transunion-dispute)
 
-### Credit Reports
+### Monitoring, builder, and repair boundaries
 
-- AnnualCreditReport.com (official free report access): https://www.annualcreditreport.com/
-- CFPB credit reports and scores hub: https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/
-- FTC free credit reports article: https://www.consumer.ftc.gov/articles/free-credit-reports
+- Alerts vs full reports → [Credit monitoring: what it does and cannot do](https://www.creditplainly.com/credit-monitoring)
+- Secured card mechanics → [How secured credit cards work](https://www.creditplainly.com/credit-builder/how-secured-credit-cards-work)
+- Realistic repair limits → [What credit repair cannot do](https://www.creditplainly.com/credit-repair/what-credit-repair-cannot-do)
+- Scam red flags → [Credit repair scams](https://www.creditplainly.com/credit-repair/credit-repair-scams)
 
-### Credit Scores
+Full question → link mapping: [`docs/topic-matrix.md`](docs/topic-matrix.md).
 
-- CFPB credit reports and scores hub (includes score basics): https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/
+---
 
-### Credit Report Disputes
+## Official consumer sources
 
-- CFPB how to dispute an error on your credit report: https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-an-error-on-my-credit-report-en-314/
-- FTC disputing errors on your credit reports: https://www.consumer.ftc.gov/articles/disputing-errors-your-credit-reports
+Government and official program links (independent of Credit Plainly):
 
-### Credit Repair and Related Scams
+- **Reports:** [AnnualCreditReport.com](https://www.annualcreditreport.com/) · [CFPB credit reports & scores](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/) · [FTC free credit reports](https://www.consumer.ftc.gov/articles/free-credit-reports)
+- **Disputes:** [CFPB dispute FAQ](https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-an-error-on-my-credit-report-en-314/) · [FTC disputing errors](https://www.consumer.ftc.gov/articles/disputing-errors-your-credit-reports)
+- **Scores:** [FTC credit scores](https://consumer.ftc.gov/articles/credit-scores)
+- **Fraud / identity:** [IdentityTheft.gov](https://www.identitytheft.gov/) · [FTC freezes & fraud alerts](https://consumer.ftc.gov/articles/what-know-about-credit-freezes-and-fraud-alerts)
+- **Repair scams:** [FTC fixing your credit FAQs](https://consumer.ftc.gov/articles/fixing-your-credit-faqs)
 
-- FTC fixing your credit FAQs (includes credit repair scam red flags): https://consumer.ftc.gov/articles/fixing-your-credit-faqs
-- Credit Repair Organizations Act (FTC statute page): https://www.ftc.gov/legal-library/browse/statutes/credit-repair-organizations-act
+Expanded directory with “when to use” notes: [`docs/official-consumer-credit-resources.md`](docs/official-consumer-credit-resources.md).
 
-### Identity Theft and Fraud
+---
 
-- IdentityTheft.gov: https://www.identitytheft.gov/
-- ReportFraud.ftc.gov: https://reportfraud.ftc.gov/
+## Credit Plainly deep resources (in this repo)
 
-### Laws and Rules (Reference)
+| Document | Purpose |
+|----------|---------|
+| [`docs/topic-matrix.md`](docs/topic-matrix.md) | Match user questions to guides, repos, and official sources |
+| [`docs/credit-report-starting-points.md`](docs/credit-report-starting-points.md) | Short report reading path |
+| [`docs/credit-score-starting-points.md`](docs/credit-score-starting-points.md) | Short score literacy path |
+| [`docs/credit-dispute-starting-points.md`](docs/credit-dispute-starting-points.md) | Short dispute path |
+| [`docs/glossaries.md`](docs/glossaries.md) | Links to on-site glossaries |
+| [`docs/tools-and-checklists.md`](docs/tools-and-checklists.md) | Educational tools index |
+| [`docs/linking-policy.md`](docs/linking-policy.md) | How and why we link |
+| [`docs/resource-cluster-map.md`](docs/resource-cluster-map.md) | Full public GitHub cluster map |
+| [`docs/maintenance-checklist.md`](docs/maintenance-checklist.md) | Maintainer QA steps |
 
-- Fair Credit Reporting Act (FCRA) statute page (FTC legal library): https://www.ftc.gov/legal-library/browse/statutes/fair-credit-reporting-act
+---
 
-### Consumer Complaints
+## Related GitHub repositories
 
-- CFPB complaint portal: https://www.consumerfinance.gov/complaint/
+| Repository | Role |
+|------------|------|
+| [credit-report-dispute-starter-kit](https://github.com/creditplainly/credit-report-dispute-starter-kit) | Step-by-step dispute path |
+| [credit-score-learning-path](https://github.com/creditplainly/credit-score-learning-path) | Score concepts in order |
+| [credit-report-glossary-map](https://github.com/creditplainly/credit-report-glossary-map) | Term tables with guide links |
+| [credit-monitoring-basics-guide](https://github.com/creditplainly/credit-monitoring-basics-guide) | Monitoring vs reports vs scores |
 
-## Medium Editorial Note
+Organization profile: [github.com/creditplainly](https://github.com/creditplainly).
 
-**Why Credit Plainly Exists** (plain-English credit education without quick-fix promises):  
-https://medium.com/@creditplainly/why-credit-plainly-exists-plain-english-credit-education-without-quick-fix-promises-cbbc36466944
+---
 
-## Disclaimer
+## Educational disclaimer
 
-Educational only. Not legal advice or financial advice. No score increase, approval, dispute result, or item removal is guaranteed. Accurate negative information generally cannot be removed simply because it hurts a score.
+This repository is for **educational purposes only**. It is not legal advice or financial advice. Credit Plainly does not guarantee score changes, loan approvals, dispute results, or removal of accurate negative information. Disputes address incomplete or inaccurate reporting; accurate negative history generally remains until it ages off under applicable rules.
 
-## Repo Map
+---
 
-- Curated official links: [`docs/official-consumer-credit-resources.md`](docs/official-consumer-credit-resources.md)
-- Starting points by topic: [`docs/credit-report-starting-points.md`](docs/credit-report-starting-points.md), [`docs/credit-score-starting-points.md`](docs/credit-score-starting-points.md), [`docs/credit-dispute-starting-points.md`](docs/credit-dispute-starting-points.md)
-- Glossaries and tools index: [`docs/glossaries.md`](docs/glossaries.md), [`docs/tools-and-checklists.md`](docs/tools-and-checklists.md)
+## Maintenance
+
+- **Linking rules:** [`docs/linking-policy.md`](docs/linking-policy.md)
+- **Quarterly review:** [`docs/maintenance-checklist.md`](docs/maintenance-checklist.md)
+- **Broken official link?** Use the [issue template](.github/ISSUE_TEMPLATE/broken-link.yml).
+- **Contributions:** [`CONTRIBUTING.md`](CONTRIBUTING.md) (official sources only; no commercial pitches).
+
+*Repository structure and official links last expanded: 2026-05-16.*

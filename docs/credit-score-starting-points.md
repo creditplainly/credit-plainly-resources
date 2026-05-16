@@ -1,5 +1,7 @@
 # Credit score starting points
 
+For a wider question → guide map, see [topic-matrix.md](topic-matrix.md).
+
 Credit scores are summaries built from credit report data. They can vary by model and data snapshot, so treat any educational example as a general explanation rather than a prediction.
 
 ## Credit Plainly guides and glossary

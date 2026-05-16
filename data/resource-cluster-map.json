@@ -1,0 +1,60 @@
+{
+  "repo": "credit-plainly-resources",
+  "purpose": "Central public hub for plain-English U.S. consumer credit education: curated official government and program links, topic navigation, structured page metadata for maintainers, and pointers to sibling GitHub learning-path repositories.",
+  "primarySiteTargets": [
+    "/credit-reports/free-credit-report",
+    "/credit-reports/how-to-read-credit-report",
+    "/credit-reports/common-credit-report-errors",
+    "/credit-report-disputes/how-to-dispute-credit-report-errors",
+    "/credit-scores/check-credit-score",
+    "/credit-scores/fico-vs-vantagescore",
+    "/credit-monitoring",
+    "/resources/credit-report-terms-glossary",
+    "/resources/credit-score-terms-glossary",
+    "/resources/credit-report-error-checklist",
+    "/resources/credit-dispute-document-checklist"
+  ],
+  "officialSources": [
+    "https://www.annualcreditreport.com/",
+    "https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/",
+    "https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-an-error-on-my-credit-report-en-314/",
+    "https://www.consumer.ftc.gov/articles/free-credit-reports",
+    "https://www.consumer.ftc.gov/articles/disputing-errors-your-credit-reports",
+    "https://consumer.ftc.gov/articles/fixing-your-credit-faqs",
+    "https://www.identitytheft.gov/",
+    "https://www.equifax.com/personal/credit-report-services/credit-dispute/",
+    "https://www.experian.com/disputes/main.html",
+    "https://www.transunion.com/credit-disputes/dispute-your-credit"
+  ],
+  "relatedRepos": [
+    {
+      "name": "credit-report-dispute-starter-kit",
+      "url": "https://github.com/creditplainly/credit-report-dispute-starter-kit",
+      "role": "Ordered dispute learning path"
+    },
+    {
+      "name": "credit-score-learning-path",
+      "url": "https://github.com/creditplainly/credit-score-learning-path",
+      "role": "Score literacy sequence"
+    },
+    {
+      "name": "credit-report-glossary-map",
+      "url": "https://github.com/creditplainly/credit-report-glossary-map",
+      "role": "Term-to-guide reference tables"
+    },
+    {
+      "name": "credit-monitoring-basics-guide",
+      "url": "https://github.com/creditplainly/credit-monitoring-basics-guide",
+      "role": "Monitoring vs reports vs scores"
+    }
+  ],
+  "notAllowed": [
+    "Paid product placements or lender recommendations",
+    "Partner or tracking URLs",
+    "Promises of score increases, approvals, or guaranteed dispute removals",
+    "Links to loan comparison or debt consolidation funnels",
+    "Employment or tenant background-check playbooks",
+    "People-search or reverse-phone monetization",
+    "Pages that are not published on creditplainly.com at the time of the link update"
+  ]
+}
