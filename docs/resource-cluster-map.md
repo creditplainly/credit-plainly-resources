@@ -41,7 +41,7 @@ We will **not** create repos whose main purpose is “remove collections,” pay
 | Loan / debt consolidation product pitches | Out of scope for Credit Plainly education |
 | Background check / tenant screening playbooks | Different permissible use and risk profile |
 | People-search or reverse-phone tools | Misuse risk; not consumer credit education |
-| One thin repo per isolated search topic | Doorway-style pattern; prefer depth in existing repos |
+| Very small repositories that do not add standalone reader value | Prefer depth in existing repos |
 
 ---
 
