@@ -38,10 +38,10 @@ We will **not** create repos whose main purpose is “remove collections,” pay
 | Idea | Reason |
 |------|--------|
 | “Best credit monitoring” or card comparison repos | Commercial comparison and disclosure burden |
-| Loan / debt consolidation funnels | Out of scope for Credit Plainly education |
+| Loan / debt consolidation product pitches | Out of scope for Credit Plainly education |
 | Background check / tenant screening playbooks | Different permissible use and risk profile |
 | People-search or reverse-phone tools | Misuse risk; not consumer credit education |
-| One repo per keyword phrase | Thin doorway pattern; prefer depth in existing repos |
+| One thin repo per isolated search topic | Doorway-style pattern; prefer depth in existing repos |
 
 ---
 
